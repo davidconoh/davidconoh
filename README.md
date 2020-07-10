@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m always needing help with Linux and all his friends...
 - 💬 Ask me about Scikit-Learn and Docker...
-- 📫 How to reach me: ...
--  [Twitter](https://twitter.com/davidconoh)
--  [LinkedIn](https://linkedin.com/in/davidconoh)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/davidconoh) and [Twitter](https://twitter.com/davidconoh). 
 - 😄 Pronouns: Me, Myself and I.
 - ⚡ Fun fact:
  I own the universe, if you ask well enough.
