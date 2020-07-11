@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning in the Cloud...
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/davidconoh) and [Twitter](https://twitter.com/davidconoh). 
 - 😄 Pronouns: Me, Myself and I.
-- ⚡ Fun fact:
- I own the universe, if you ask well enough.
+- ⚡ Fun fact: I already own the universe, if you ask well enough.
