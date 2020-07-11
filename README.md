@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**@davidconoh**](https://github.com/davidconoh/davidconoh) is a ✨ _special_ ✨ person because this `README.md` (this file) appears on his GitHub profile.
+[**@davidconoh**](https://github.com/davidconoh/davidconoh) is a ✨ _special_ ✨ person already. This `README.md` (this file) is just stating the obvious.
 
 Here are some ideas to get you started:
 
