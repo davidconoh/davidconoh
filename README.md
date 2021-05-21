@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**@davidconoh**](https://github.com/davidconoh/davidconoh) is on the software foodchain. Yet, this `README.md` file attempts to state the obvious.
+[**@davidconoh**](https://github.com/davidconoh/davidconoh): head on the software stack already. However, this `README.md` file is only attempting to state the obvious.
 
 Here are some ideas to get you started:
 
