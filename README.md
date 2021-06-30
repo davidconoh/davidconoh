@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[**@davidconoh**](https://github.com/davidconoh/davidconoh) is head on the software stack already. However, this `README.md` file is only attempting to state the obvious.
+[**David Onoh**](https://github.com/davidconoh/davidconoh) is King on the street. See brutal caution.
 
 Here are some ideas to get you started:
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### Currently
 
 - 🤔 I am what she called a 'Linux and friends' guy...
-- 💬 Ask me about the Web, Data and Cloud Analytics...
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/davidconoh) and [Twitter](https://twitter.com/davidconoh). 
+- 💬 Ask me about the web, data and cloud...
+- 📫 Reach out to me on [LinkedIn](https://linkedin.com/in/davidconoh)
 - 😄 Pronouns: Me, Myself and I.
 - ⚡ Fun fact: Bless the LORD, O my soul; all that is within me, bless His holy name (Psa 103:1). 
