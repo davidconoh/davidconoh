@@ -2,6 +2,8 @@
 
 [Chika](https://github.com/davidconoh/davidconoh) ∆tom in an oasis 🌪️ – See brutal caution ⚠️, Planet 🐛.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidconoh)
+
 Munchoko on my two wags_ _ 🌻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidconoh&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
