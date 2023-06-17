@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[Chika](https://github.com/davidconoh/davidconoh) is CODED. 🌪️ – RAPID!!! ⚠️, What else?! 🐛.
+[Chika](https://github.com/davidconoh/davidconoh) is R33 🎏 :/ CODED. 🌪️ – RAPID!!! ⚠️, What else?! 🍺.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidconoh)
 
-Stupid with a two trekker on wags_ _ 🌻
+Stupid with a two trekker on wags_ _ 💋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidconoh&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
