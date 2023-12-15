@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[Chika](https://github.com/davidconoh/davidconoh) is R33 🎏 :/ CODED. 🌪️ – RAPID!!! ⚠️, What else?! 🍺.
+[Chika](https://github.com/davidconoh/davidconoh) is R_3 🎏 :/ CODELY. 🌪️ – RAPID!!! ⚠️, What else?! 🍺.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidconoh)
+**Let's see Linktree** : ["Let's see Linktree"](https://linktr.ee/davidconoh)](https://linktr.ee/davidconoh)](https://linktr.ee/davidconoh)
 
 Stupid with a two trekker on wags_ _ 💋
 
@@ -10,7 +10,7 @@ Stupid with a two trekker on wags_ _ 💋
 
 ### ICYMI
 
-- 📝 [@Open Source](http://opensource.davidconoh.me) / [@Blog](https://reads.davidconoh.me) – Industry 4.0, Cloud and A.I...
-- 📫 Reach out to me on [LinkedIn](https://linkedin.com/in/gizmodabneon) and [Instagram](https://instagram.com/gizmodabneon)...
+- 📝 [@ Blog portfolio :](https://davidconoh-binoculars.netlify.app/) – Industry 4.0, Cloud and A.I...
+- 📫 Reach out to me on [Instagram](https://instagram.com/gizmodabneon) and [Twitter](https://twitter.com/gizmodabneon)...
 - 😎 Pronouns: Me, Myself and I...
 - 🎉 Fun fact: Like [David](https://github.com/davidconoh) would say, `"Bless the LORD, O my soul; all that is within me, bless His holy name (Psa 103:1)"`.
